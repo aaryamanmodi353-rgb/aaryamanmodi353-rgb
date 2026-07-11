@@ -39,7 +39,7 @@
 
 **AI, Cloud & Tooling**
 <br>
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,idea"/>
+<img src="https://skillicons.dev/icons?i=aws,git, vscode,idea"/>
 
 <br>
 
