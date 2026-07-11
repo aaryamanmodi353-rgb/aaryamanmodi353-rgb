@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate 3D Contribution Graph
 
 on:
   schedule:
@@ -9,22 +9,24 @@ on:
       - main
 
 jobs:
-  generate:
+  build:
+    runs-on: ubuntu-latest
     permissions:
       contents: write
-    runs-on: ubuntu-latest
     steps:
-      - name: Generate contribution snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: aaryamanmodi353-rgb
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: Push generated files to the "output" branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          
+      - name: Commit & Push Generated Files
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add -A .
+          git commit -m "Auto-generated 3D contribution graph"
+          git push
