@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Replace the src link below with your GIF URL once you have it -->
-<img width="100%" src="https://via.placeholder.com/800x200.gif?text=Your+Banner+GIF+Here" alt="Banner"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Undergrad+%40+VIT+Bhopal;Java+%7C+C%2B%2B+%7C+Full-Stack+Developer;Building+AI-Powered+Web+Applications" alt="Typing SVG" />
