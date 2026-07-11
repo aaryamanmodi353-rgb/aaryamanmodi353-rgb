@@ -19,7 +19,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Currently pursuing my **B.Tech in Computer Science and Engineering** at **VIT Bhopal**.
-- 💻 Primary focus on **Java** and **C++** for core development, alongside architecting scalable applications using the MERN stack and Tailwind CSS.
+- 💻 Primary focus on **Java** for core development, alongside architecting scalable applications using the MERN stack and Tailwind CSS.
 - 💼 **Web Development Intern at Unified Mentor (Feb 2026 - Apr 2026):** Engineered full-stack platforms including *Rent Mojo* (a rental marketplace) and *Entré Skill Hub* (a startup platform).
 - 🤖 Passionate about integrating AI and LLMs into practical applications. Built an AI-powered text summarizer and a comprehensive interview preparation platform using the Google Gemini API.
 - ⚙️ Hands-on experience developing an IoT car operated via laptop commands.
