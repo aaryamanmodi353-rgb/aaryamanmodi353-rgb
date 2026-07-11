@@ -1,9 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aryaman%20Modi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20LLM%20Enthusiast&descAlignY=58&descSize=16"/>
+<!-- Replace the src link below with your GIF URL once you have it -->
+<img width="100%" src="https://via.placeholder.com/800x200.gif?text=Your+Banner+GIF+Here" alt="Banner"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Undergrad+%40+VIT+Bhopal;Java+%7C+C%2B%2B+%7C+Full-Stack+Developer;MERN+Stack+%26+Spring+Boot+Engineer;Building+AI-Powered+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Undergrad+%40+VIT+Bhopal;Java+%7C+C%2B%2B+%7C+Full-Stack+Developer;Building+AI-Powered+Web+Applications" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -18,11 +19,44 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Currently pursuing my **B.Tech in Computer Science and Engineering** at **VIT Bhopal University**.
-- 💻 Primary focus on **Java** and **C++** for core development, alongside architecting scalable full-stack applications.
-- 💼 Previously built automated testing frameworks at **ServiceNow**, and engineered full-stack platforms like *Rent Mojo* and *Entré Skill Hub* during my internship at **Unified Mentor**.
-- 🤖 Passionate about integrating **AI/ML and LLMs** (Google Gemini, YOLOv8) into practical, real-world applications.
+- 🎓 Currently pursuing my **B.Tech in Computer Science and Engineering** at **VIT Bhopal**.
+- 💻 Primary focus on **Java** and **C++** for core development, alongside architecting scalable applications using the MERN stack and Tailwind CSS.
+- 💼 **Web Development Intern at Unified Mentor (Feb 2026 - Apr 2026):** Engineered full-stack platforms including *Rent Mojo* (a rental marketplace) and *Entré Skill Hub* (a startup platform).
+- 🤖 Passionate about integrating AI and LLMs into practical applications. Built an AI-powered text summarizer and a comprehensive interview preparation platform using the Google Gemini API.
+- ⚙️ Hands-on experience developing an IoT car operated via laptop commands.
 - 📫 Reach me at **deepmodi670@gmail.com**
+
+<br>
+
+## 🛠️ Technologies
+
+**Core Languages & Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,mongodb,mysql"/>
+
+**Web Development**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,html,css"/>
+
+**AI, Cloud & Tooling**
+<br>
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,idea"/>
+
+<br>
+
+## 📜 Certifications
+
+- AWS Certified Solutions Architect (In Progress)
+- Google Networking Certification
+
+<br>
+
+## 🏆 Achievements
+
+| Rank | Event | Highlight |
+|:---:|:---|:---|
+| 🏅 5th | India's Biggest Student Cloud Hackathon | Cloud architecture and deployment |
+| ✅ Qualifier | TCS CodeVita Round 1 | Global competitive programming contest |
 
 <br>
 
@@ -42,22 +76,6 @@
 
 <br>
 
-## 🛠️ Tech Stack
-
-**Core & Databases**
-
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,sql,mongodb,mysql"/>
-
-**Web Development**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,tailwind,html,css"/>
-
-**AI / ML & Tooling**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,aws,git,github,vscode,idea,replit"/>
-
-<br>
-
 ## ⚡ GitHub Stats
 
 <div align="center">
@@ -68,16 +86,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamanmodi353-rgb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
-
-<br>
-
-## 🏆 Achievements
-
-| Rank | Event | Highlight |
-|:---:|:---|:---|
-| 🏅 5th | India's Largest Student Cloud Hackathon | 1.5K+ developers · JNTUH, Hyderabad |
-| 🥈 2nd | Glitch the System Hackathon | Built a functional rebadging site under time pressure |
-| ✅ Qualifier | TCS CodeVita Round 1 | Global competitive programming contest |
 
 <br>
 
