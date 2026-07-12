@@ -18,18 +18,19 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Currently pursuing my **B.Tech in Computer Science and Engineering** at **VIT Bhopal**.
-- 💻 Primary focus on **Java** and **C++** for core development, alongside architecting scalable applications using the MERN stack and Tailwind CSS.
-- 💼 **Web Development Intern at Unified Mentor (Feb 2026 - Apr 2026):** Engineered full-stack platforms including *Rent Mojo* (a rental marketplace) and *Entré Skill Hub* (a startup platform).
+- 🎓 Currently pursuing my **B.Tech in Computer Science and Engineering** at **VIT Bhopal** (GPA: 8.77/10).
+- 💻 Primary focus on **Java** and **C++** for core development, alongside architecting scalable applications using the MERN stack and Next.js.
+- 💼 **Intern at ServiceNow (May 2026 - Jun 2026):** Focused on ServiceNow Administration, automated reporting frameworks, and gained hands-on experience with Agentic AI and Automated Test Frameworks (ATF).
+- 💼 **Full Stack Developer Intern at Unified Mentor (Feb 2026 - Apr 2026):** Engineered full-cycle platforms including *Rent Mojo* and *Entré Skill Hub*, designing scalable MongoDB schemas that reduced API data retrieval latency by 20%.
 - 📫 Reach me at **deepmodi670@gmail.com**
 
 <br>
 
 ## 🚀 Featured Endeavors
 
-| 🤖 AI Interview Prep Platform | 🏎️ IoT Command Car | 📝 AI Text Summarizer |
+| 🛍️ Product AI: Price Optimization | 🛒 TechNova E-Commerce | 📄 ATS-AI (ResumeIQ) |
 |:---|:---|:---|
-| A comprehensive interview preparation platform powered by the **Google Gemini API**, designed to simulate real-world technical assessments. | A custom-built IoT vehicle engineered to receive and execute real-time operational commands directly from a laptop interface. | An intelligent text summarizer leveraging Large Language Models to distill complex information into concise, readable formats. |
+| An end-to-end ML system predicting optimal e-commerce prices using **NLP and TF-IDF vectorization**, featuring a predictive regression pipeline via a **FastAPI** backend and React.js frontend. | A high-performance platform built with a **Java Spring Boot** backend and **Next.js 16** frontend, incorporating stateless JWT authentication and dynamic UPI payment flows. | An enterprise **MERN** optimization platform featuring a Deterministic 6-Pillar Scoring Engine, N-gram keyword extraction, and an AI-powered Bullet Rewrite Coach. |
 
 <br>
 
@@ -41,18 +42,20 @@
 
 **Web Development**
 <br>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,html,css"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,tailwind,html,css"/>
 
 **AI, Cloud & Tooling**
 <br>
-<img src="https://skillicons.dev/icons?i=aws,git,vscode,idea"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,aws,git,vscode,idea"/>
 
 <br>
 
 ## 📜 Certifications
 
+- Oracle Gen AI Professional Certification
+- Oracle Gen AI Foundation Certification
+- Google IT Support: Bits and Bytes of Computer Networking
 - AWS Certified Solutions Architect (In Progress)
-- Google Networking Certification
 
 <br>
 
@@ -62,8 +65,8 @@
   
   | Rank | Event | Highlight |
   |:---:|:---|:---|
-  | 🏅 5th | India's Biggest Student Cloud Hackathon | Cloud architecture and deployment |
-  | 🥈 2nd | Glitch the System Hackathon | Built a functional rebadging site under time pressure |
+  | 🏅 5th | India's Biggest Student Cloud Hackathon | Cloud architecture and deployment (1.5K+ developers) |
+  | 🥈 2nd | Glitch the System Hackathon | Programmed a functional rebadging website on Replit |
   | ✅ Qualifier | TCS CodeVita Round 1 | Global competitive programming contest |
 
 </details>
@@ -82,7 +85,6 @@
 
 <div align="center">
 
-<!-- Updated with the correct filenames from the workflow output -->
 <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="800px"/>
 
 <br><br>
