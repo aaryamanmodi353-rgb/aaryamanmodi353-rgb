@@ -3,14 +3,14 @@
 <img width="100%" src="212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Undergrad+%40+VIT+Bhopal;Java+%7C+C%2B%2B+%7C+Full-Stack+Developer;Building+AI-Powered+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=9D72FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Undergrad+%40+VIT+Bhopal;Java+%7C+C%2B%2B+%7C+Full-Stack+Developer;Building+AI-Powered+Web+Applications" alt="Typing SVG" />
 </a>
 
 <br><br>
 
-<a href="mailto:deepmodi670@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/aaryamanmodi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/aaryamanmodi353-rgb"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:deepmodi670@gmail.com"><img src="https://img.shields.io/badge/Gmail-4A3B69?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/aaryamanmodi"><img src="https://img.shields.io/badge/LinkedIn-4A3B69?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/aaryamanmodi353-rgb"><img src="https://img.shields.io/badge/GitHub-4A3B69?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
@@ -71,12 +71,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aaryamanmodi353-rgb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github&cache_seconds=86400"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aaryamanmodi353-rgb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&rank_icon=github"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryamanmodi353-rgb&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117"/>
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamanmodi353-rgb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamanmodi353-rgb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -86,11 +84,11 @@
 
 ### 🤝 Let's Connect
 
-<a href="mailto:deepmodi670@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/aaryamanmodi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:deepmodi670@gmail.com"><img src="https://img.shields.io/badge/Gmail-4A3B69?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/aaryamanmodi"><img src="https://img.shields.io/badge/LinkedIn-4A3B69?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=aaryamanmodi353-rgb&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=aaryamanmodi353-rgb&color=9D72FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
