@@ -15,7 +15,7 @@ jobs:
       contents: write
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
@@ -28,5 +28,10 @@ jobs:
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git add -A .
-          git commit -m "Auto-generated 3D contribution graph"
-          git push
+          # This checks if there are actual changes before trying to commit
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Auto-generated 3D contribution graph"
+            git push
+          else
+            echo "No new contributions to update today. Skipping commit."
+          fi
