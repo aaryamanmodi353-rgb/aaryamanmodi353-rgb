@@ -81,7 +81,7 @@
 
 <br>
 
-## ⚡ GitHub Stats & Commit Activity
+## ⚡ GitHub & LeetCode Stats
 
 <div align="center">
 
@@ -90,7 +90,7 @@
 <br><br>
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryamanmodi353-rgb&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117"/>
-<img height="165" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages"/>
+<img height="165" src="https://leetcard.jacoblin.cool/p160589?theme=tokyonight&ext=activity" alt="LeetCode Stats"/>
 
 </div>
 
