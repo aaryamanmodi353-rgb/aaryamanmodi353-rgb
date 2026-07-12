@@ -17,15 +17,15 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.SUMMARY_PAT }} 
         
       - name: Generate Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          # Uses the Personal Access Token you created
           GITHUB_TOKEN: ${{ secrets.SUMMARY_PAT }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          # Turns off the buggy internal push mechanism
           AUTO_PUSH: false
           
       - name: Commit & Push Generated Files
@@ -35,6 +35,8 @@ jobs:
           git add -A .
           if [ -n "$(git status --porcelain)" ]; then
             git commit -m "Auto-generated profile summary cards"
+            # This line downloads any changes made by your 3D graph workflow before pushing!
+            git pull --rebase origin main
             git push
           else
             echo "No changes to commit"
