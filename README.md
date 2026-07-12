@@ -19,7 +19,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Currently pursuing my **B.Tech in Computer Science and Engineering** at **VIT Bhopal**.
-- 💻 Primary focus on **Java** for core development, alongside architecting scalable applications using the MERN stack and Tailwind CSS.
+- 💻 Primary focus on **Java** and **C++** for core development, alongside architecting scalable applications using the MERN stack and Tailwind CSS.
 - 💼 **Web Development Intern at Unified Mentor (Feb 2026 - Apr 2026):** Engineered full-stack platforms including *Rent Mojo* (a rental marketplace) and *Entré Skill Hub* (a startup platform).
 - 🤖 Passionate about integrating AI and LLMs into practical applications. Built an AI-powered text summarizer and a comprehensive interview preparation platform using the Google Gemini API.
 - ⚙️ Hands-on experience developing an IoT car operated via laptop commands.
@@ -71,10 +71,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aaryamanmodi353-rgb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&rank_icon=github"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aaryamanmodi353-rgb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github&cache_seconds=86400"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryamanmodi353-rgb&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamanmodi353-rgb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamanmodi353-rgb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400"/>
 
 </div>
 
