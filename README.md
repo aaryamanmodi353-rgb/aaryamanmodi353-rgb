@@ -91,9 +91,9 @@
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryamanmodi353-rgb&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117"/>
 &nbsp;&nbsp;&nbsp;
-<img height="120" src="./assets/50DaysLeetcode24.gif" alt="50 Days LeetCode 2024 Badge"/>
-<img height="120" src="./assets/50DaysLeetcode25.gif" alt="50 Days LeetCode 2025 Badge"/>
-<img height="120" src="./assets/100DaysLeetcode25.gif" alt="100 Days LeetCode 2025 Badge"/>
+<img height="120" src="50DaysLeetcode24.gif" alt="50 Days LeetCode 2024 Badge"/>
+<img height="120" src="50DaysLeetcode25.gif" alt="50 Days LeetCode 2025 Badge"/>
+<img height="120" src="100DaysLeetcode25.gif" alt="100 Days LeetCode 2025 Badge"/>
 
 </div>
 
