@@ -47,7 +47,7 @@ AI, Cloud & Tooling
 
 ## 📜 Certifications
 <div align="center">
-  <img src="cert-gallery.svg" width="100%" alt="Six certificates: Oracle Gen AI Professional Certification, Google IT Support: Bits and Bytes of Computer Networking, AWS Certified Cloud Practitioner, Oracle Certified Foundations Associate in Agentic AI, Career Essentials in Generative AI by Microsoft and LinkedIn, and HackerRank Software Engineer. The certificate cards float with staggered animation." />
+  <img src="cert-gallery.svg" width="75%" alt="Six certificates: Oracle Gen AI Professional Certification, Google IT Support: Bits and Bytes of Computer Networking, AWS Certified Cloud Practitioner, Oracle Certified Foundations Associate in Agentic AI, Career Essentials in Generative AI by Microsoft and LinkedIn, and HackerRank Software Engineer. The certificate cards float with staggered animation." />
 </div>
 
 
