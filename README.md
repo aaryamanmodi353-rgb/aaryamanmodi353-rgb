@@ -26,13 +26,8 @@
 
 <br>
 
-## 🚀 Featured Endeavors
-
-| 🛍️ Product AI: Price Optimization | 🛒 TechNova E-Commerce | 📄 ATS-AI (ResumeIQ) |
-|:---|:---|:---|
-| An end-to-end ML system predicting optimal e-commerce prices using **NLP and TF-IDF vectorization**, featuring a predictive regression pipeline via a **FastAPI** backend and React.js frontend. | A high-performance platform built with a **Java Spring Boot** backend and **Next.js 16** frontend, incorporating stateless JWT authentication and dynamic UPI payment flows. | An enterprise **MERN** optimization platform featuring a Deterministic 6-Pillar Scoring Engine, N-gram keyword extraction, and an AI-powered Bullet Rewrite Coach. |
-
-<br>
+🚀 Featured Endeavors
+<img src="project-product-ai.svg" width="776" alt="Product AI: Price Optimization - An end-to-end ML system predicting optimal e-commerce prices using NLP and TF-IDF vectorization, featuring a predictive regression pipeline via a FastAPI backend and React.js frontend."/> <img src="project-technova.svg" width="776" alt="TechNova E-Commerce - A high-performance platform built with a Java Spring Boot backend and Next.js 16 frontend, incorporating stateless JWT authentication and dynamic UPI payment flows."/> <img src="project-resumeiq.svg" width="776" alt="ATS-AI (ResumeIQ) - An enterprise MERN optimization platform featuring a Deterministic 6-Pillar Scoring Engine, N-gram keyword extraction, and an AI-powered Bullet Rewrite Coach."/> <br>
 
 🛠️ Technologies
 Core Languages & Databases
