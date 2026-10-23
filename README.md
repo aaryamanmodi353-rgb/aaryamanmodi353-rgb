@@ -65,15 +65,14 @@ AI, Cloud & Tooling
   />
 </div>
   
-  | Rank | Event | Highlight |
-  |:---:|:---|:---|
-  | 🏅 5th | India's Biggest Student Cloud Hackathon | Cloud architecture and deployment (1.5K+ developers) |
-  | 🥈 2nd | Glitch the System Hackathon | Programmed a functional rebadging website on Replit |
-  | ✅ Qualifier | TCS CodeVita Round 1 | Global competitive programming contest |
-
-</details>
-
-<br>
+ ## 🏆 Hackathons & Achievements
+<div align="center">
+  <img
+    src="achievements.svg"
+    width="100%"
+    alt="Hackathons and achievements: fifth place in India's Biggest Student Cloud Hackathon, second place in Glitch the System Hackathon, and qualifier in TCS CodeVita Round 1."
+  />
+</div>
 
 ## 🧊 3D Contribution Graph
 
