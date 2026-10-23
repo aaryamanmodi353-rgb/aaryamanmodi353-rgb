@@ -46,7 +46,7 @@ AI, Cloud & Tooling
 
 
 ## 📜 Certifications
-<img src="assets/certs/cert-gallery.svg" width="776" alt="Certificates earned: Oracle Gen AI Professional Certification (issued July 15, 2025); Google IT Support: Bits and Bytes of Computer Networking (issued Nov 20, 2025); AWS Certified Cloud Practitioner (issued Aug 2, 2026, expires Aug 2, 2029)."/> <img src="assets/certs/cert-more.svg" width="776" alt="Oracle Gen AI Foundation Certification. AWS Certified Solutions Architect (In Progress)."/> <br> <details> <summary><b>🏆 View Hackathons & Achievements</b></summary> <br>
+<img src="cert-gallery.svg" width="776" alt="Certificates earned: Oracle Gen AI Professional Certification (issued July 15, 2025); Google IT Support: Bits and Bytes of Computer Networking (issued Nov 20, 2025); AWS Certified Cloud Practitioner (issued Aug 2, 2026, expires Aug 2, 2029)."/> <img src="assets/certs/cert-more.svg" width="776" alt="Oracle Gen AI Foundation Certification. AWS Certified Solutions Architect (In Progress)."/> <br> <details> <summary><b>🏆 View Hackathons & Achievements</b></summary> <br>
 
 
   <summary><b>🏆 View Hackathons & Achievements</b></summary>
