@@ -34,21 +34,18 @@
 
 <br>
 
-## 🛠️ Technologies
-
-**Core Languages & Databases**
+🛠️ Technologies
+Core Languages & Databases
 <br>
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,mongodb,mysql"/>
-
-**Web Development**
+<img src="assets/tech/tech-core.svg" width="776" alt="Java, C++, C, Python, JavaScript, MongoDB, MySQL"/>
+Web Development
 <br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,tailwind,html,css"/>
-
-**AI, Cloud & Tooling**
+<img src="assets/tech/tech-web.svg" width="776" alt="React, Next.js, Node.js, Express, Spring, Tailwind, HTML5, CSS3"/>
+AI, Cloud & Tooling
 <br>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,aws,git,vscode,idea"/>
-
+<img src="assets/tech/tech-ai.svg" width="776" alt="TensorFlow, PyTorch, AWS, Git, VS Code, IntelliJ"/>
 <br>
+
 
 ## 📜 Certifications
 
