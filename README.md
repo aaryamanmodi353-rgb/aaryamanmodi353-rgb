@@ -37,13 +37,13 @@
 🛠️ Technologies
 Core Languages & Databases
 <br>
-<img src="assets/tech/tech-core.svg" width="776" alt="Java, C++, C, Python, JavaScript, MongoDB, MySQL"/>
+<img src="tech-core.svg" width="776" alt="Java, C++, C, Python, JavaScript, MongoDB, MySQL"/>
 Web Development
 <br>
-<img src="assets/tech/tech-web.svg" width="776" alt="React, Next.js, Node.js, Express, Spring, Tailwind, HTML5, CSS3"/>
+<img src="tech-web.svg" width="776" alt="React, Next.js, Node.js, Express, Spring, Tailwind, HTML5, CSS3"/>
 AI, Cloud & Tooling
 <br>
-<img src="assets/tech/tech-ai.svg" width="776" alt="TensorFlow, PyTorch, AWS, Git, VS Code, IntelliJ"/>
+<img src="tech-ai.svg" width="776" alt="TensorFlow, PyTorch, AWS, Git, VS Code, IntelliJ"/>
 <br>
 
 
