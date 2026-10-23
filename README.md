@@ -46,11 +46,74 @@ AI, Cloud & Tooling
 
 
 ## 📜 Certifications
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=CBA6F7" width="100%" alt="divider"/>
+</div>
 
-- Oracle Gen AI Professional Certification
-- Oracle Gen AI Foundation Certification
-- Google IT Support: Bits and Bytes of Computer Networking
-- AWS Certified Solutions Architect (In Progress)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+      <br><br>
+      <b>Oracle Gen AI Professional Certification</b>
+      <br><br>
+      <img src="https://img.shields.io/badge/-CERTIFIED-CBA6F7?style=flat-square&labelColor=4A3B69&logo=checkmarx&logoColor=white" alt="Certified"/>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+      <br><br>
+      <b>Oracle Gen AI Foundation Certification</b>
+      <br><br>
+      <img src="https://img.shields.io/badge/-CERTIFIED-CBA6F7?style=flat-square&labelColor=4A3B69&logo=checkmarx&logoColor=white" alt="Certified"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/GOOGLE-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google"/>
+      <br><br>
+      <b>Google IT Support: Bits and Bytes of Computer Networking</b>
+      <br><br>
+      <img src="https://img.shields.io/badge/-CERTIFIED-CBA6F7?style=flat-square&labelColor=4A3B69&logo=checkmarx&logoColor=white" alt="Certified"/>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+      <br><br>
+      <b>AWS Certified Solutions Architect</b>
+      <br><br>
+      <img src="https://img.shields.io/badge/-IN_PROGRESS-1e1e2e?style=flat-square&labelColor=4A3B69&logo=hourglass&logoColor=CBA6F7" alt="In Progress"/>
+    </td>
+  </tr>
+</table>
+
+
+<details>
+  <summary><b>🏆 View Hackathons & Achievements</b></summary>
+  <br>
+
+  <table>
+    <tr>
+      <td width="33%" valign="top" align="center">
+        <h1>🏅</h1>
+        <img src="https://img.shields.io/badge/RANK-5th-CBA6F7?style=for-the-badge&labelColor=4A3B69" alt="5th"/>
+        <h4>India's Biggest Student Cloud Hackathon</h4>
+        <sub>Cloud architecture and deployment (1.5K+ developers)</sub>
+      </td>
+      <td width="33%" valign="top" align="center">
+        <h1>🥈</h1>
+        <img src="https://img.shields.io/badge/RANK-2nd-CBA6F7?style=for-the-badge&labelColor=4A3B69" alt="2nd"/>
+        <h4>Glitch the System Hackathon</h4>
+        <sub>Programmed a functional rebadging website on Replit</sub>
+      </td>
+      <td width="33%" valign="top" align="center">
+        <h1>✅</h1>
+        <img src="https://img.shields.io/badge/RANK-Qualifier-CBA6F7?style=for-the-badge&labelColor=4A3B69" alt="Qualifier"/>
+        <h4>TCS CodeVita Round 1</h4>
+        <sub>Global competitive programming contest</sub>
+      </td>
+    </tr>
+  </table>
+
+</details>
 
 <br>
 
