@@ -18,11 +18,22 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Currently pursuing my **B.Tech in Computer Science and Engineering** at **VIT Bhopal** (GPA: 8.79/10).
-- 💻 Primary focus on **Java** and **C++** for core development, alongside architecting scalable applications using the MERN stack and Next.js.
-- 💼 **Intern at ServiceNow (May 2026 - Jun 2026):** Focused on ServiceNow Administration, automated reporting frameworks, and gained hands-on experience with Agentic AI and Automated Test Frameworks (ATF).
-- 💼 **Full Stack Developer Intern at Unified Mentor (Feb 2026 - Apr 2026):** Engineered full-cycle platforms including *Rent Mojo* and *Entré Skill Hub*, designing scalable MongoDB schemas that reduced API data retrieval latency by 20%.
-- 📫 Reach me at **deepmodi670@gmail.com**
+<div align="center">
+  <img
+    src="about-me.svg"
+    width="100%"
+    alt="About Me — B.Tech CSE at VIT Bhopal, GPA 8.79/10, Java and C++, full-stack development, and internships at ServiceNow and Unified Mentor."
+  />
+
+  <br><br>
+
+  <a href="mailto:deepmodi670@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Contact-deepmodi670%40gmail.com-4A3B69?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Contact by email"
+    />
+  </a>
+</div>
 
 <br>
 
