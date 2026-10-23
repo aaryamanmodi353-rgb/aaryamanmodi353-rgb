@@ -28,9 +28,55 @@
 
 ## 🚀 Featured Endeavors
 
-| 🛍️ Product AI: Price Optimization | 🛒 TechNova E-Commerce | 📄 ATS-AI (ResumeIQ) |
-|:---|:---|:---|
-| An end-to-end ML system predicting optimal e-commerce prices using **NLP and TF-IDF vectorization**, featuring a predictive regression pipeline via a **FastAPI** backend and React.js frontend. | A high-performance platform built with a **Java Spring Boot** backend and **Next.js 16** frontend, incorporating stateless JWT authentication and dynamic UPI payment flows. | An enterprise **MERN** optimization platform featuring a Deterministic 6-Pillar Scoring Engine, N-gram keyword extraction, and an AI-powered Bullet Rewrite Coach. |
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=CBA6F7" width="100%" alt="divider"/>
+</div>
+
+<table>
+  <tr>
+    <!-- ───────── Card 1 ───────── -->
+    <td width="33%" valign="top">
+      <div align="center">
+        <img src="https://img.shields.io/badge/01-PROJECT-4A3B69?style=flat-square&labelColor=CBA6F7&color=4A3B69" alt="01"/>
+        <h3>🛍️ Product AI: Price Optimization</h3>
+      </div>
+      <p>An end-to-end ML system predicting optimal e-commerce prices using <b>NLP and TF-IDF vectorization</b>, featuring a predictive regression pipeline via a <b>FastAPI</b> backend and React.js frontend.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/NLP-1e1e2e?style=flat-square&labelColor=4A3B69&color=1e1e2e" alt="NLP"/>
+        <img src="https://img.shields.io/badge/TF--IDF-1e1e2e?style=flat-square&labelColor=4A3B69&color=1e1e2e" alt="TF-IDF"/>
+        <img src="https://img.shields.io/badge/FastAPI-1e1e2e?style=flat-square&logo=fastapi&logoColor=CBA6F7&labelColor=4A3B69&color=1e1e2e" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/React.js-1e1e2e?style=flat-square&logo=react&logoColor=CBA6F7&labelColor=4A3B69&color=1e1e2e" alt="React.js"/>
+      </div>
+    </td>
+    <!-- ───────── Card 2 ───────── -->
+    <td width="33%" valign="top">
+      <div align="center">
+        <img src="https://img.shields.io/badge/02-PROJECT-4A3B69?style=flat-square&labelColor=CBA6F7&color=4A3B69" alt="02"/>
+        <h3>🛒 TechNova E-Commerce</h3>
+      </div>
+      <p>A high-performance platform built with a <b>Java Spring Boot</b> backend and <b>Next.js 16</b> frontend, incorporating stateless JWT authentication and dynamic UPI payment flows.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Spring_Boot-1e1e2e?style=flat-square&logo=springboot&logoColor=CBA6F7&labelColor=4A3B69&color=1e1e2e" alt="Spring Boot"/>
+        <img src="https://img.shields.io/badge/Next.js_16-1e1e2e?style=flat-square&logo=nextdotjs&logoColor=CBA6F7&labelColor=4A3B69&color=1e1e2e" alt="Next.js 16"/>
+        <img src="https://img.shields.io/badge/JWT-1e1e2e?style=flat-square&logo=jsonwebtokens&logoColor=CBA6F7&labelColor=4A3B69&color=1e1e2e" alt="JWT"/>
+        <img src="https://img.shields.io/badge/UPI-1e1e2e?style=flat-square&labelColor=4A3B69&color=1e1e2e" alt="UPI"/>
+      </div>
+    </td>
+    <!-- ───────── Card 3 ───────── -->
+    <td width="33%" valign="top">
+      <div align="center">
+        <img src="https://img.shields.io/badge/03-PROJECT-4A3B69?style=flat-square&labelColor=CBA6F7&color=4A3B69" alt="03"/>
+        <h3>📄 ATS-AI (ResumeIQ)</h3>
+      </div>
+      <p>An enterprise <b>MERN</b> optimization platform featuring a Deterministic 6-Pillar Scoring Engine, N-gram keyword extraction, and an AI-powered Bullet Rewrite Coach.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/MERN-1e1e2e?style=flat-square&logo=mongodb&logoColor=CBA6F7&labelColor=4A3B69&color=1e1e2e" alt="MERN"/>
+        <img src="https://img.shields.io/badge/N--gram-1e1e2e?style=flat-square&labelColor=4A3B69&color=1e1e2e" alt="N-gram"/>
+        <img src="https://img.shields.io/badge/AI_Coach-1e1e2e?style=flat-square&labelColor=4A3B69&color=1e1e2e" alt="AI Coach"/>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -52,22 +98,73 @@
 
 ## 📜 Certifications
 
-- Oracle Gen AI Professional Certification
-- Oracle Gen AI Foundation Certification
-- Google IT Support: Bits and Bytes of Computer Networking
-- AWS Certified Solutions Architect (In Progress)
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=CBA6F7" width="100%" alt="divider"/>
+</div>
+
+<table>
+  <tr>
+    <td width="50%" valign="middle">
+      <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+      <br><br>
+      <b>Oracle Gen AI Professional Certification</b>
+      <br>
+      <img src="https://img.shields.io/badge/-CERTIFIED-4A3B69?style=flat-square&logo=checkmarx&logoColor=CBA6F7" alt="Certified"/>
+    </td>
+    <td width="50%" valign="middle">
+      <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+      <br><br>
+      <b>Oracle Gen AI Foundation Certification</b>
+      <br>
+      <img src="https://img.shields.io/badge/-CERTIFIED-4A3B69?style=flat-square&logo=checkmarx&logoColor=CBA6F7" alt="Certified"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="middle">
+      <img src="https://img.shields.io/badge/GOOGLE-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google"/>
+      <br><br>
+      <b>Google IT Support: Bits and Bytes of Computer Networking</b>
+      <br>
+      <img src="https://img.shields.io/badge/-CERTIFIED-4A3B69?style=flat-square&logo=checkmarx&logoColor=CBA6F7" alt="Certified"/>
+    </td>
+    <td width="50%" valign="middle">
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+      <br><br>
+      <b>AWS Certified Solutions Architect</b>
+      <br>
+      <img src="https://img.shields.io/badge/-IN_PROGRESS-1e1e2e?style=flat-square&logo=hourglass&logoColor=CBA6F7&labelColor=1e1e2e" alt="In Progress"/>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 <details>
   <summary><b>🏆 View Hackathons & Achievements</b></summary>
   <br>
-  
-  | Rank | Event | Highlight |
-  |:---:|:---|:---|
-  | 🏅 5th | India's Biggest Student Cloud Hackathon | Cloud architecture and deployment (1.5K+ developers) |
-  | 🥈 2nd | Glitch the System Hackathon | Programmed a functional rebadging website on Replit |
-  | ✅ Qualifier | TCS CodeVita Round 1 | Global competitive programming contest |
+
+  <table>
+    <tr>
+      <td width="33%" valign="top" align="center">
+        <h1>🏅</h1>
+        <img src="https://img.shields.io/badge/RANK-5th-CBA6F7?style=for-the-badge&labelColor=4A3B69" alt="5th"/>
+        <h4>India's Biggest Student Cloud Hackathon</h4>
+        <sub>Cloud architecture and deployment (1.5K+ developers)</sub>
+      </td>
+      <td width="33%" valign="top" align="center">
+        <h1>🥈</h1>
+        <img src="https://img.shields.io/badge/RANK-2nd-CBA6F7?style=for-the-badge&labelColor=4A3B69" alt="2nd"/>
+        <h4>Glitch the System Hackathon</h4>
+        <sub>Programmed a functional rebadging website on Replit</sub>
+      </td>
+      <td width="33%" valign="top" align="center">
+        <h1>✅</h1>
+        <img src="https://img.shields.io/badge/RANK-Qualifier-CBA6F7?style=for-the-badge&labelColor=4A3B69" alt="Qualifier"/>
+        <h4>TCS CodeVita Round 1</h4>
+        <sub>Global competitive programming contest</sub>
+      </td>
+    </tr>
+  </table>
 
 </details>
 
