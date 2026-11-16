@@ -22,7 +22,7 @@
   <img
     src="about-me.svg"
     width="100%"
-    alt="About Me — B.Tech CSE at VIT Bhopal, GPA 8.79/10, Java and C++, full-stack development, and internships at ServiceNow and Unified Mentor."
+    alt="About Me — B.Tech CSE at VIT Bhopal, GPA 8.85/10, Java and C++, full-stack development, and internships at ServiceNow and Unified Mentor."
   />
 
   <br><br>
